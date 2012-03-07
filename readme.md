@@ -13,6 +13,7 @@ Under Creative Commons [BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-
 ### Major components:
 
 * jQuery: MIT/GPL license
+* Tweeter Bootstrap : Apache License v2.0
 * HTML5 Boilerplate: Public domain
 * Modernizr: MIT/BSD license
 * Normalize.css: Public Domain
