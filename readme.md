@@ -13,7 +13,8 @@ Clone the git repo `git clone git://github.com/ludomatic/collect.git` or [downlo
 License
 -------
 
-Under Creative Commons [BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Under Creative Commons [BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+
 Except for:
 
 * jQuery: MIT/GPL license
