@@ -1,15 +1,21 @@
-# HTML5 data collector
+HTML5 data collector
+====================
 
 Collect inventory data on a HTML5 compatible handheld device.
 
-## Sources
+
+Sources
+-------
 
 Clone the git repo `git clone git://github.com/ludomatic/collect.git` or [download it](https://github.com/ludomatic/collect/zipball/master)!
 
-## License
+
+License
+-------
 
 Under Creative Commons [BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 Except for:
+
 * jQuery: MIT/GPL license
 * Tweeter Bootstrap : Apache License v2.0
 * HTML5 Boilerplate: Public domain
