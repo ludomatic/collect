@@ -1,0 +1,15 @@
+/*
+ * Personnal CSS rules
+ */
+
+
+/** RESET **/
+html {-webkit-text-size-adjust:none;} /* http://webdesignerwall.com/tutorials/responsive-design-with-css3-media-queries */
+:not(input):not(textarea):not(select) {-webkit-user-select:none;} /* http://css-infos.net/property/-webkit-user-select */
+
+/** BOOTSTRAP OVERRIDE **/
+input[type="text"] {margin:0 auto;}
+.btn {font-weight:bold;}
+
+/** SPECIFIC ID/CLASS **/
+#ajaxLoader {float:right;font-size:2em;color:#EEE;}
