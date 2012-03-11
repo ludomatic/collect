@@ -9,7 +9,7 @@
 
 //---- Variables
 $CONF = array(); // Configuration générale
-$CONF["path_dbf"] = "../dbf/"; // Chemin vers les fichiers DBase
+$CONF["path_dbf"] = "./dbf/"; // Chemin vers les fichiers DBase
 $CONF["path_dat"] = "/tmp/stock.dat"; // Fichier d'inventaire
 
 //---- Initialisation
@@ -22,6 +22,8 @@ if ( @$_SERVER["HTTP_X_REQUESTED_WITH"]!="XMLHttpRequest" ) {
   die( "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\"><html><head><title>404 Not Found</title></head><body><h1 style=\"color:#ddd;font-size:30em;display:block;text-align:center;\"><abbr title=\"Nothing here... Please don't let me alone!\">404</abbr></h1></body></html>" );
   exit;
 }
+
+/* TODO: FCT DE LECTURE DES DBFs */
 
 //---- Gestion de l'encodage
 //header("Content-Type: text/html; charset=UTF-8");
